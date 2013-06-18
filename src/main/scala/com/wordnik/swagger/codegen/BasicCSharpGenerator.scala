@@ -68,7 +68,7 @@ class BasicCSharpGenerator extends BasicGenerator {
 
   override def reservedWords = Set("abstract", "continue", "for", "new", "switch", "assert", 
       "default", "if", "package", "synchronized", "boolean", "do", "goto", "private", 
-      "this", "break", "double", "implements", "protected", "throw", "byte", "else", 
+      "this", "break", "implements", "protected", "throw", "byte", "else", 
       "import", "public", "throws", "case", "enum", "instanceof", "return", "transient", 
       "catch", "extends", "short", "try", "char", "final", "interface", "static", 
       "void", "class", "finally", "strictfp", "volatile", "const", "native", "super", "while")
